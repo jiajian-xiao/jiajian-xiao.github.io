@@ -15,7 +15,7 @@ I have been heavily involved in a number of local (Singapore) and international 
 2007 - 2011	B.Eng.     Shanghai Jiao Tong University, Shanghai, China\
 2011 - 2013	M.Sc.      Technical University of Munich (TUM), Munich, Germany\
 2016 - 2022	Ph.D       Technical University of Munich (TUM), Munich, Germany \
-(Co-supervised by Prof. Alois Knoll from Technical University of Munich and Prof. Wentong Cai from Nanyang Technological University)
+(Co-supervised by Prof. Alois Knoll from Technical University of Munich, Germany and Prof. Wentong Cai from Nanyang Technological University, Singapore)
 ## Work
 
 2014 - 2016     Software Developer  [TUMCREATE](https://www.tum-create.edu.sg/), Singapore\
