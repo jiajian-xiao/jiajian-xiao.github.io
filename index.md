@@ -8,8 +8,6 @@ layout: default
 
 I am currently a Research Fellow at TUMCREATE, Singapore. My research interests include high-performance computing with a special focus on using heterogeneous hardware to accelerate agent-based simulations, general agent-based modeling & simulation, and smart transportation problems. 
 
-I am a key team member in a number of local (Singapore) and international (collaborating with research entities in Germany and China) research projects.
-
 ## Education
 
 2007 - 2011	B.Eng.     Shanghai Jiao Tong University, Shanghai, China\
@@ -24,6 +22,9 @@ I am a key team member in a number of local (Singapore) and international (colla
 2014 - 2016     Software Developer  [TUMCREATE](https://www.tum-create.edu.sg/), Singapore
 
 ## Research Projects
+
+I am a key team member in a number of local (Singapore) and international (collaborating with research entities in Germany, Austria and China) research projects.
+
 ### [- TUMCREATE-The Center for Electromobility in Megacities](https://www.tum-create.edu.sg/about/center-electromobility-megacities) 2011-2016
 TUMCREATE broke new ground in the field of electric vehicle research and development. Over 120 scientists, researchers and engineers and more than 12 Chair Professors conducted pioneering research in ten different fields. These included new battery materials and storage, innovative EV designs, low-energy air-conditioning, transportation system optimisation, and energy storage.
 
@@ -34,7 +35,7 @@ TUMCREATE Phase 2 aimed to see the evolution of the urban bus system to a more c
 
 The ultimate goal was to see the current bus system into a fully-connected, new shared-mobility system encompassing flexible-and fixed-route services, along with low to high passenger capacity services, intelligent passenger information services and providing good connectivity to the Mass Rapid Transit (MRT) system.
 
-### [- TUMCREATE Virtual Interactive Lab](https://ars.electronica.art/futurelab/en/projects-tumcreate/) 2016-2017
+### [- TUMCREATE- ARS Virtual Interactive Lab](https://ars.electronica.art/futurelab/en/projects-tumcreate/) 2016-2017
 Collaborating with Future lab at ARS Electronica (Linz, Austria) to develop a unique research and demonstrator platform for urban mobility - which merges the interdisciplinary scientific expertise of TUMCREATE with the available technology for virtual reality.
 
 ### [- Singapore Integrated Transport and Energy Model (SITEM)](https://www.tum-create.edu.sg/content/sitem-singapore-integrated-transport-and-energy-model) 2020-2022
