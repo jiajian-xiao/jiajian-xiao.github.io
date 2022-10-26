@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="DSCF3582.jpg">
 
-My name is Jiajian Xiao. I am currently a Research Fellow at TUMCREATE, Singapore. My research interests include high-performance computing with a special focus on using heterogeneous hardware to accelerate agent-based simulations, general agent-based modeling & simulation, and smart transportation problems. 
+I am currently a Research Fellow at TUMCREATE, Singapore. My research interests include high-performance computing with a special focus on using heterogeneous hardware to accelerate agent-based simulations, general agent-based modeling & simulation, and smart transportation problems. 
 
 I am a key team member in a number of local (Singapore) and international (collaborating with research entities in Germany and China) research projects.
 
