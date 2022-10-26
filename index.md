@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="DSCF3582.jpg">
 
-I am currently a Research Fellow at TUMCREATE, Singapore. My research interests include high-performance computing with a special focus on using heterogeneous hardware to accelerate agent-based simulations, general agent-based modeling & simulation, and smart transportation problems. 
+My name is Jiajian Xiao. I am currently a Research Fellow at TUMCREATE, Singapore. My research interests include high-performance computing with a special focus on using heterogeneous hardware to accelerate agent-based simulations, general agent-based modeling & simulation, and smart transportation problems. 
 
 I have been heavily involved in a number of local (Singapore) and international (collaborating with research entities in Germany and China) research projects.
 
@@ -18,22 +18,21 @@ I have been heavily involved in a number of local (Singapore) and international 
 
 
 ## Research Projects
-### [-TUMCREATE - The Center for Electromobility in Megacities](https://www.tum-create.edu.sg/about/center-electromobility-megacities) 2011-2016
+### [- TUMCREATE-The Center for Electromobility in Megacities](https://www.tum-create.edu.sg/about/center-electromobility-megacities) 2011-2016
 TUMCREATE broke new ground in the field of electric vehicle research and development. Over 120 scientists, researchers and engineers and more than 12 Chair Professors conducted pioneering research in ten different fields. These included new battery materials and storage, innovative EV designs, low-energy air-conditioning, transportation system optimisation, and energy storage.
 
 30 Invention Disclosures were made during Phase 1 and the team won the eCarTec Award for Innovation, Germany and the Land Transport Excellence Award, Singapore.
 
-### [-TUMCREATE - Towards the Ultimate Public Transport System](https://www.tum-create.edu.sg/content/towards-ultimate-public-transport-system-0) 2016-2022
+### [- TUMCREATE-Towards the Ultimate Public Transport System](https://www.tum-create.edu.sg/content/towards-ultimate-public-transport-system-0) 2016-2022
 TUMCREATE Phase 2 aimed to see the evolution of the urban bus system to a more convenient, connected and efficient public transport system. With Singapore as the study ground, TUMCREATE introduced the concept of a Dynamic Autonomous Road Transit (DART) system that consists of a fleet of mixed-size modular electric, autonomous road-based vehicles, with high level secure communication between vehicle-to-vehicle and vehicle-to-intelligent infrastructure, to realize an efficient, attractive and comfortable mobility service. 
 
 The ultimate goal was to see the current bus system into a fully-connected, new shared-mobility system encompassing flexible-and fixed-route services, along with low to high passenger capacity services, intelligent passenger information services and providing good connectivity to the Mass Rapid Transit (MRT) system.
 
-
-### [-Singapore Integrated Transport and Energy Model (SITEM)](https://www.tum-create.edu.sg/content/sitem-singapore-integrated-transport-and-energy-model) 2020-2022
-A\*STAR’s Institute of High Performance Computing (IHPC) and TUMCREATE Ltd (TUMCREATE) are working together on a research project that supports Singapore’s planning for the transition to electric vehicles (EVs) nationwide. The Singapore Integrated Transport Energy Model (SITEM) will be used to conduct a comprehensive analysis of projected electric vehicle (EV) charging patterns and energy demand, which will support policymaking on Singapore’s budget 2040 vision for all vehicles to run on cleaner energy and contribute towards Singapore’s decarbonisation commitments. The research project is commissioned by the Science and Technology Policy and Plans Office (S&TPPO), Prime Minister’s Office, and aims to advance the nation’s capabilities in integrated modelling and simulation of transport and power systems.
-
-### [-TUMCREATE Virtual Interactive Lab](https://ars.electronica.art/futurelab/en/projects-tumcreate/) 2016-2017
+### [- TUMCREATE Virtual Interactive Lab](https://ars.electronica.art/futurelab/en/projects-tumcreate/) 2016-2017
 Collaborating with Future lab at ARS Electronica (Linz, Austria) to develop a unique research and demonstrator platform for urban mobility - which merges the interdisciplinary scientific expertise of TUMCREATE with the available technology for virtual reality.
+
+### [- Singapore Integrated Transport and Energy Model (SITEM)](https://www.tum-create.edu.sg/content/sitem-singapore-integrated-transport-and-energy-model) 2020-2022
+A\*STAR’s Institute of High Performance Computing (IHPC) and TUMCREATE Ltd (TUMCREATE) are working together on a research project that supports Singapore’s planning for the transition to electric vehicles (EVs) nationwide. The Singapore Integrated Transport Energy Model (SITEM) will be used to conduct a comprehensive analysis of projected electric vehicle (EV) charging patterns and energy demand, which will support policymaking on Singapore’s budget 2040 vision for all vehicles to run on cleaner energy and contribute towards Singapore’s decarbonisation commitments. The research project is commissioned by the Science and Technology Policy and Plans Office (S&TPPO), Prime Minister’s Office, and aims to advance the nation’s capabilities in integrated modelling and simulation of transport and power systems.
 
 ## Publications
 
