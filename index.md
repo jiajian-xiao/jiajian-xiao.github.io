@@ -16,10 +16,10 @@ My research interests include high-performance computing with a special focus on
 
 ## Research Projects
 
-### Singapore Integrated Transport and Energy Model (SITEM)
+### [Singapore Integrated Transport and Energy Model (SITEM)](https://www.tum-create.edu.sg/content/sitem-singapore-integrated-transport-and-energy-model)
 A\*STAR’s Institute of High Performance Computing (IHPC) and TUMCREATE Ltd (TUMCREATE) are working together on a research project that supports Singapore’s planning for the transition to electric vehicles (EVs) nationwide. The Singapore Integrated Transport Energy Model (SITEM) will be used to conduct a comprehensive analysis of projected electric vehicle (EV) charging patterns and energy demand, which will support policymaking on Singapore’s budget 2040 vision for all vehicles to run on cleaner energy and contribute towards Singapore’s decarbonisation commitments. The research project is commissioned by the Science and Technology Policy and Plans Office (S&TPPO), Prime Minister’s Office, and aims to advance the nation’s capabilities in integrated modelling and simulation of transport and power systems.
 
-### TUMCREATE Virtual Interactive Lab
+### [TUMCREATE Virtual Interactive Lab](https://ars.electronica.art/futurelab/en/projects-tumcreate/)
 Collaborating with Future lab at ARS Electronica (Linz, Austria) to develop a unique research and demonstrator platform for urban mobility - which merges the interdisciplinary scientific expertise of TUMCREATE with the available technology for virtual reality.
 
 ## Publications

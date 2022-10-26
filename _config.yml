@@ -16,7 +16,7 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "Main"
+ - name: "About Me"
    link: "/researcher/"
  - name: "Resume"
    link: "Resume_Jiajian.pdf"

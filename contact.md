@@ -3,24 +3,21 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
+* Email: [jiajian.xiao at outlook.com](mailto:jiajian.xiao@outlook.com)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> 10-02, 1 Create Way
 >
-> London
+> 138602 Singapore
 >
-> United Kingdom
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Google Scholar](https://scholar.google.com.sg/citations?user=UJknDkwAAAAJ&hl=en)
+2. [Linkedin](https://www.linkedin.com/in/jiajian-xiao-b744155a/)
+3. [DBLP](https://dblp.org/pid/168/6473.html)
