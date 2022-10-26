@@ -6,13 +6,14 @@ layout: default
 
 <img class="profile-picture" src="DSCF3582.jpg">
 
-I am currently a Research Fellow at TUMCREATE, Singapore. My research interests include high-performance computing with a special focus on using heterogeneous hardware to accelerate agent-based simulations, general agent-based modeling & simulation, and smart transportation problems. 
+I am currently a Research Fellow at TUMCREATE, Singapore. My research interests include high-performance computing with a special focus on using heterogeneous hardware(a mix of CPUs, GPUs, FPGAs,etc.) to accelerate agent-based simulations, general agent-based modeling & simulation, and smart transportation problems. 
 
 ## Education
 
 2007 - 2011	B.Eng.     Shanghai Jiao Tong University, Shanghai, China\
 2011 - 2013	M.Sc.      Technical University of Munich (TUM), Munich, Germany\
 2016 - 2022	Ph.D       Technical University of Munich (TUM), Munich, Germany\
+Dissertation: A Compiler Framework to Generate High-Performance Time Stepped Agent-based Simulations on Heterogeneous Hardware.\
 (Co-supervised by Prof. Alois Knoll from Technical University of Munich, Germany and Prof. Wentong Cai from Nanyang Technological University, Singapore)
 
 ## Work
