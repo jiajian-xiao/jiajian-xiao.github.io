@@ -14,7 +14,7 @@ I have been heavily involved in a number of local (Singapore) and international 
 
 2007 - 2011	B.Eng.		Shanghai Jiao Tong University \
 2011 - 2013	M.Sc.		Technical University of Munich (TUM) \
-2016 - 2022	Ph.D 		Technical University of Munich (TUM) \
+2016 - 2022	Ph.D 		Technical University of Munich (TUM)
 
 ## Research Interests
 
