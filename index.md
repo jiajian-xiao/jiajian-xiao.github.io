@@ -35,7 +35,7 @@ TUMCREATE Phase 2 aimed to see the evolution of the urban bus system to a more c
 
 The ultimate goal was to see the current bus system into a fully-connected, new shared-mobility system encompassing flexible-and fixed-route services, along with low to high passenger capacity services, intelligent passenger information services and providing good connectivity to the Mass Rapid Transit (MRT) system.
 
-### [- TUMCREATE- ARS Virtual Interactive Lab](https://ars.electronica.art/futurelab/en/projects-tumcreate/) 2016-2017
+### [- TUMCREATE-ARS Electronica Virtual Interactive Lab](https://ars.electronica.art/futurelab/en/projects-tumcreate/) 2016-2017
 Collaborating with Future lab at ARS Electronica (Linz, Austria) to develop a unique research and demonstrator platform for urban mobility - which merges the interdisciplinary scientific expertise of TUMCREATE with the available technology for virtual reality.
 
 ### [- Singapore Integrated Transport and Energy Model (SITEM)](https://www.tum-create.edu.sg/content/sitem-singapore-integrated-transport-and-energy-model) 2020-2022
