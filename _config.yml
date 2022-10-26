@@ -1,4 +1,4 @@
-title: Researcher
+title: Jiajian, XIAO
 url: "https://jiajian-xiao.github.io"
 #baseurl: "/researcher"
 
@@ -19,6 +19,6 @@ nav:
  - name: "Main"
    link: "/researcher/"
  - name: "Resume"
-   link: "resume.pdf"
+   link: "Resume_Jiajian.pdf"
  - name: "Contact"
    link: "contact"
