@@ -10,6 +10,12 @@ I am currently a research fellow at TUMCREATE, Singapore.
 
 I have been heavily involved in a number of local (Singapore) and international (collaborating with research entities in Germany and China) research projects.
 
+## Education
+
+2007 - 2011	B.Eng.		Shanghai Jiao Tong University
+2011 - 2013	M.Sc.		Technical University of Munich (TUM)
+2016 - 2022	Ph.D 		Technical University of Munich (TUM)
+
 ## Research Interests
 
 My research interests include high-performance computing with a special focus on using heterogeneous hardware to accelerate agent-based simulations, general agent-based modeling & simulation, and smart transportation problems.
