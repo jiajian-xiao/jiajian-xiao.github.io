@@ -3,7 +3,6 @@ url: "https://jiajian-xiao.github.io"
 #baseurl: "/researcher"
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
 remote_theme: ankitsultana/researcher@gem
 tracking_id: G-YELYJJLFMZ
 
