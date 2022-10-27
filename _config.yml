@@ -4,7 +4,7 @@ url: "https://jiajian-xiao.github.io"
 
 markdown: kramdown
 remote_theme: ankitsultana/researcher@gem
-tracking_id: G-YELYJJLFMZ
+tracking_id: G-VJKNEWFT41
 
 footer: yes
 footer_url: "https://github.com/ankitsultana"
@@ -17,6 +17,8 @@ sass:
 nav:
  - name: "About Me"
    link: "/"
+ - name: "Publication"
+   link: "publication"
  - name: "Resume"
    link: "Resume_Jiajian.pdf"
  - name: "Contact"
