@@ -6,26 +6,26 @@ layout: default
 
 <img class="profile-picture" src="DSCF3582.jpg">
 
-I am currently a Postdoctoral Research Fellow at TUMCREATE, Singapore. My research interests include high-performance computing with a special focus on using heterogeneous hardware (a mix of CPUs, GPUs, FPGAs, etc.) to accelerate agent-based simulations, general agent-based modeling & simulation, and smart transportation problems. 
+I am currently a Postdoctoral Research Fellow at TUMCREATE, Singapore. My research interests span high-performance computing with a special focus on using heterogeneous hardware (a mix of CPUs, GPUs, FPGAs, etc.) to accelerate agent-based simulations, general agent-based modeling & simulation efforts, smart transportation problems and so on. 
 
 ## Education
 
 2007 - 2011&nbsp; &nbsp;B.Eng.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;Shanghai Jiao Tong University, Shanghai, China
 
 2011 - 2013&nbsp; &nbsp;M.Sc.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Technical University of Munich (TUM), Munich, Germany
+(Sehr gut bestanden/ Passed with distinction)
 
 2016 - 2022&nbsp; &nbsp;Ph.D&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Technical University of Munich (TUM), Munich, Germany
-
-Dissertation: A Compiler Framework to Generate High-Performance Time Stepped Agent-based Simulations on Heterogeneous Hardware.
-(Co-supervised by Prof. Alois Knoll from Technical University of Munich, Germany and Prof. Wentong Cai from Nanyang Technological University, Singapore)
+Dissertation: A Compiler Framework to Generate High-Performance Time Stepped Agent-based Simulations on Heterogeneous Hardware.\\
+(Co-supervised by Prof. Alois Knoll from Technical University of Munich (TUM), Germany and Prof. Wentong Cai from Nanyang Technological University (NTU), Singapore)
 
 ## Work
 
-2020 - present&nbsp;&nbsp;&nbsp;Research Fellow&nbsp;&nbsp;&nbsp;[TUMCREATE](https://www.tum-create.edu.sg/), Singapore
+2020 - present&nbsp;&nbsp;&nbsp;&nbsp;Research Fellow&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[TUMCREATE](https://www.tum-create.edu.sg/), Singapore
 
-2016 - 2020&nbsp;&nbsp;&nbsp;Research Associate&nbsp;&nbsp;&nbsp;[TUMCREATE](https://www.tum-create.edu.sg/), Singapore
+2016 - 2020&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research Associate&nbsp;&nbsp;&nbsp;[TUMCREATE](https://www.tum-create.edu.sg/), Singapore
 
-2014 - 2016&nbsp;&nbsp;&nbsp;Software Developer&nbsp;&nbsp;&nbsp;[TUMCREATE](https://www.tum-create.edu.sg/), Singapore
+2014 - 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Software Developer&nbsp;&nbsp;&nbsp;[TUMCREATE](https://www.tum-create.edu.sg/), Singapore
 
 ## Research Projects
 
