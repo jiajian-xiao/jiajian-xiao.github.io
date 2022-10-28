@@ -10,7 +10,7 @@ I am currently a Postdoctoral Research Fellow at TUMCREATE, Singapore. My resear
 
 ## Education
 
-2007 - 2011&nbsp; &nbsp;B.Eng.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Shanghai Jiao Tong University, Shanghai, China\
+2007 - 2011&nbsp; &nbsp;B.Eng.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;Shanghai Jiao Tong University, Shanghai, China\
 2011 - 2013&nbsp; &nbsp;M.Sc.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Technical University of Munich (TUM), Munich, Germany\
 2016 - 2022&nbsp; &nbsp;Ph.D&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Technical University of Munich (TUM), Munich, Germany\
 Dissertation: A Compiler Framework to Generate High-Performance Time Stepped Agent-based Simulations on Heterogeneous Hardware.\
@@ -18,9 +18,9 @@ Dissertation: A Compiler Framework to Generate High-Performance Time Stepped Age
 
 ## Work
 
-2020 - present  Research Fellow     [TUMCREATE](https://www.tum-create.edu.sg/), Singapore\
-2016 - 2020     Research Associate  [TUMCREATE](https://www.tum-create.edu.sg/), Singapore\
-2014 - 2016     Software Developer  [TUMCREATE](https://www.tum-create.edu.sg/), Singapore
+2020 - present&nbsp;&nbsp;&nbsp;Research Fellow&nbsp;&nbsp;&nbsp;[TUMCREATE](https://www.tum-create.edu.sg/), Singapore\
+2016 - 2020&nbsp;&nbsp;&nbsp;Research Associate&nbsp;&nbsp;&nbsp;[TUMCREATE](https://www.tum-create.edu.sg/), Singapore\
+2014 - 2016&nbsp;&nbsp;&nbsp;Software Developer&nbsp;&nbsp;&nbsp;[TUMCREATE](https://www.tum-create.edu.sg/), Singapore
 
 ## Research Projects
 
