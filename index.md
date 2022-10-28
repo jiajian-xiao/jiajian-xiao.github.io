@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="DSCF3582.jpg">
 
-I am currently a Research Fellow at TUMCREATE, Singapore. My research interests include high-performance computing with a special focus on using heterogeneous hardware(a mix of CPUs, GPUs, FPGAs,etc.) to accelerate agent-based simulations, general agent-based modeling & simulation, and smart transportation problems. 
+I am currently a Research Fellow at TUMCREATE, Singapore. My research interests include high-performance computing with a special focus on using heterogeneous hardware (a mix of CPUs, GPUs, FPGAs,etc.) to accelerate agent-based simulations, general agent-based modeling & simulation, and smart transportation problems. 
 
 ## Education
 
