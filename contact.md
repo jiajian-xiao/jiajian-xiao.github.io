@@ -9,12 +9,9 @@ is_contact: true
 
 ## Mailing Address
 
-> #10-02, 1 Create Way
-> 
-> TUMCREATE
->
-> 138602 Singapore
->
+> 1 Fusionopolis Way, #16-16, 
+> Connexis North Tower,
+> Singapore 138632
 
 ---
 

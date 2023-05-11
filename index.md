@@ -5,8 +5,12 @@ layout: default
 ## About Me
 
 <img class="profile-picture" src="DSCF3582.jpg">
+I am currently working as a Level-II Scientist at Agency for Science, Technology and Research (A*STAR) Singapore.
+My research interests span high-performance computing, focusing on deploying applications on heterogeneous hardware,
+agent-based simulation, and intelligent transportation. I am one of the core architects and developers of a microscopic
+agent-based mobility simulator – CityMoS. I have been involved in and led a number of research projects, collaborating
+with research entities and industrial partners in Singapore, Germany, Austria, and China.
 
-I am currently a Scientist II at A-STAR, Singapore. My research interests span high-performance computing with a special focus on using heterogeneous hardware (a mix of CPUs, GPUs, FPGAs, etc.) to accelerate agent-based simulations, general agent-based modeling & simulation efforts, smart transportation problems and so on. 
 
 ## Education
 
@@ -16,12 +20,12 @@ I am currently a Scientist II at A-STAR, Singapore. My research interests span h
 (Sehr gut bestanden/ Passed with distinction)
 
 2016 - 2022&nbsp; &nbsp;Ph.D&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Technical University of Munich (TUM), Munich, Germany
-Dissertation: A Compiler Framework to Generate High-Performance Time Stepped Agent-based Simulations on Heterogeneous Hardware.\\
+Dissertation: A Framework to Generate High-Performance Time Stepped Agent-based Simulations on Heterogeneous Hardware.\\
 (Co-supervised by Prof. Alois Knoll from Technical University of Munich (TUM), Germany and Prof. Wentong Cai from Nanyang Technological University (NTU), Singapore)
 
 ## Work
 
-2023 - present&nbsp;&nbsp;&nbsp;&nbsp;Scientist&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[A-STAR]([https://www.tum-create.edu.sg/](https://www.a-star.edu.sg/)), Singapore
+2023 - present&nbsp;&nbsp;&nbsp;&nbsp;Scientist&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[A-STAR]([https://www.tum-create.edu.sg/](https://www.a-star.edu.sg/)), Singapore
 
 2020 - 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research Fellow&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[TUMCREATE](https://www.tum-create.edu.sg/), Singapore
 
@@ -30,8 +34,6 @@ Dissertation: A Compiler Framework to Generate High-Performance Time Stepped Age
 2014 - 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Software Developer&nbsp;&nbsp;&nbsp;[TUMCREATE](https://www.tum-create.edu.sg/), Singapore
 
 ## Research Projects
-
-I am a key team member in a number of local (Singapore) and international (collaborating with research entities in Germany, Austria and China) research projects.
 
 ### [- TUMCREATE-The Center for Electromobility in Megacities](https://www.tum-create.edu.sg/about/center-electromobility-megacities) 2011-2016
 TUMCREATE broke new ground in the field of electric vehicle research and development. Over 120 scientists, researchers and engineers and more than 12 Chair Professors conducted pioneering research in ten different fields. These included new battery materials and storage, innovative EV designs, low-energy air-conditioning, transportation system optimisation, and energy storage.
