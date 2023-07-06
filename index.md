@@ -5,7 +5,7 @@ layout: default
 ## About Me
 
 <img class="profile-picture" src="DSCF3582.jpg">
-I am currently working as a Level-II Scientist at Agency for Science, Technology and Research (A*STAR) Singapore.
+I am currently working as a Senior Scientist II at Agency for Science, Technology and Research (A*STAR) Singapore.
 My research interests span high-performance computing, focusing on deploying applications on heterogeneous hardware,
 agent-based simulation, and intelligent transportation. I am one of the core architects and developers of a microscopic
 agent-based mobility simulator – CityMoS. I have been involved in and led a number of research projects, collaborating
@@ -25,7 +25,7 @@ Dissertation: A Framework to Generate High-Performance Time Stepped Agent-based 
 
 ## Work
 
-2023 - present&nbsp;&nbsp;&nbsp;&nbsp;Scientist II&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[A-STAR](https://www.a-star.edu.sg/), Singapore
+2023 - present&nbsp;&nbsp;&nbsp;&nbsp;Scientist -> Senior Scientist&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[A-STAR](https://www.a-star.edu.sg/), Singapore
 
 2020 - 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research Fellow&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[TUMCREATE](https://www.tum-create.edu.sg/), Singapore
 
