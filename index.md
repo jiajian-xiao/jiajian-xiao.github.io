@@ -25,7 +25,7 @@ Dissertation: A Framework to Generate High-Performance Time Stepped Agent-based 
 
 ## Work
 
-2023 - present&nbsp;&nbsp;&nbsp;&nbsp;Scientist -> Senior Scientist&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[A-STAR](https://www.a-star.edu.sg/), Singapore
+2023 - present&nbsp;&nbsp;&nbsp;&nbsp;Scientist -> Senior Scientist&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[A-STAR](https://www.a-star.edu.sg/), Singapore
 
 2020 - 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research Fellow&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[TUMCREATE](https://www.tum-create.edu.sg/), Singapore
 
